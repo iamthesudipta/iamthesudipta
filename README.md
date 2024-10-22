@@ -1,21 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on Operation Automation and 10 Years Data Mining Project<br>🌱 I’m currently learning Python, Javascript<br>💬 Ask me about Excel, Power BI, MySQL<br>📫 How to reach me - sudipta.ravaya@gmail.com<br>👨‍💻 All of my projects are available at - sudipta'sprojects<br>📄 Know about my experiences - <br>⚡ Fun fact - Mimicry<br>                                          
+<h1 align="center">Hi 👋, I'm Sudipta Chatterjee</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesudipta&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesudipta" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamthesudipta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudiptacalcuta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RisingDataSkills) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamthesudipta" alt="iamthesudipta" /></a> </p>
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamthesudipta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamthesudipta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthesudipta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://twitter.com/sudiptacalcutta" target="blank"><img src="https://img.shields.io/twitter/follow/sudiptacalcutta?logo=twitter&style=for-the-badge" alt="sudiptacalcutta" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamthesudipta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 I’m currently working on **Operation Automation and 10 Years Data Mining Project**
 
----
-[![](https://visitcount.itsvg.in/api?id=iamthesudipta&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **Python, Javascript**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **sudipta.ravaya@gmail.com**
+
+- ⚡ Fun fact **Mimicry**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sudiptacalcutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudiptacalcutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamthesudipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamthesudipta" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+(https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Bi]
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamthesudipta&show_icons=true&locale=en&layout=compact" alt="iamthesudipta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamthesudipta&show_icons=true&locale=en" alt="iamthesudipta" /></p>
