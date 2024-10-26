@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/f695501c-9028-4cbf-a525-0ee443bb07ce)
+
 <h1 align="center">Hi 👋, I'm Sudipta Chatterjee</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
