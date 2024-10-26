@@ -1,8 +1,4 @@
 ![github-header-image](https://github.com/user-attachments/assets/f695501c-9028-4cbf-a525-0ee443bb07ce)
-
-<h1 align="center">Hi 👋, I'm Sudipta Chatterjee</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesudipta&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesudipta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamthesudipta" alt="iamthesudipta" /></a> </p>
